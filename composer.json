@@ -1,0 +1,32 @@
+{
+    "name": "rysstad/blocked-usernames",
+    "description": "Lets administrators block usernames (such as Admin or Administrator) from being used at registration, with a custom error message.",
+    "type": "flarum-extension",
+    "keywords": [
+        "flarum",
+        "username",
+        "registration",
+        "moderation"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.3",
+        "flarum/core": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rysstad\\BlockedUsernames\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Blocked Usernames",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-user-slash",
+                "color": "#fff",
+                "backgroundColor": "#c0392b"
+            }
+        }
+    }
+}
