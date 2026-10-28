@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of rysstad/blocked-usernames.** Not for installation: use [Packagist](https://packagist.org/packages/rysstad/blocked-usernames) or the [upstream repository](https://github.com/Pawlemann/flarum-blocked-usernames).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/pawlemann-flarum-blocked-usernames/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/pawlemann-flarum-blocked-usernames/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-10-28 | `^2.0` | [Browse](https://github.com/flarchive/pawlemann-flarum-blocked-usernames/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/pawlemann-flarum-blocked-usernames.json](https://github.com/flarchive/archive-index/blob/main/packages/pawlemann-flarum-blocked-usernames.json)
 
